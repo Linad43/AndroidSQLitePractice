@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidSQLitePractice</string>
+    <string name="nameProduct">Название</string>
+    <string name="weightProduct">Вес</string>
+    <string name="priceProduct">Цена</string>
+    <string name="saveBTN">Сохранить</string>
+    <string name="exit">Выход</string>
+    <string name="sumProduct">Стоимость</string>
+    <string name="shouldNotBeEmpty">Поле не может быть пустым</string>
+    <string name="empty" />
+</resources>
